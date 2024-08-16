@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Library Management System", "Library Management System\Library Management System.ssmssqlproj", "{2C4D13F8-4857-45D7-A93C-2BBB7495FEFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C4D13F8-4857-45D7-A93C-2BBB7495FEFF}.Default|Default.ActiveCfg = Default
+		{2F8E0B70-E540-4613-8617-21D274280694}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D07E4C6-BD3E-4CF1-936D-B2F14F22052A}
+	EndGlobalSection
+EndGlobal
